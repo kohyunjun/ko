@@ -4,15 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index.jsp</title>
+<title>Insert title here</title>
 </head>
 <body>
 
-	<h2>GIT수업입니다</h2>
-	<fieldset>
-		<legend>GIT 및 GITHUB</legend>
-		<h4>github</h4>
-		
-	</fieldset>
 </body>
 </html>
