@@ -12,7 +12,7 @@
 	<fieldset>
 		<legend>GIT 및 GITHUB</legend>
 		<h4>github</h4>
-		
+		<h3>테스트용 제목</h3>
 	</fieldset>
 </body>
 </html>
